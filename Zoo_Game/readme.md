@@ -6,4 +6,4 @@ The other version has three different pictures of the orangutan.
 
 The behavioral version of this task has been used in previous papers (e.g., Morales et al., 2018; Development & Psychopathology). 
 
-The current version was used adapted for EEG based on Grammer et al. (2014) and used for Morales et al. (under review).
+The current version was used adapted for EEG based on McDermott et al. (unpublished) and was further developed by Grammer et al. (2014). The current version is described and used in Morales et al. (under review).
